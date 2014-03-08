@@ -1,0 +1,3 @@
+@yearly /home/corvusoft/annual-process
+
+*/10 * * * * /home/corvusoft/fschk
